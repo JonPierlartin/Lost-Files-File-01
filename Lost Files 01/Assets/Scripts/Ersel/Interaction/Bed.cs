@@ -16,8 +16,9 @@ public class Bed : MonoBehaviour, IInteractable
     private Transform player;
     private PlayerMovement playerMovement;
 
-    private float currentYRotation = 0f;  // Şu anki yatay bakış
-    private float targetYRotation = 0f;   // Hedef bakış
+    private float currentYRotation = 0f;
+    private float targetYRotation = 0f;
+    private Quaternion baseCamRotation; // Yatağa girerkenki temel rotasyon
 
     private void Update()
     {
@@ -61,7 +62,12 @@ public class Bed : MonoBehaviour, IInteractable
             yield return null;
         }
 
-        // Kameranın başlangıç rotasyonunu kaydet
+        // 🔹 Kamera yatağın ön tarafına bakacak şekilde hizalanır
+        // Yani yatağın "ön" yönü (transform.forward) ile aynı hizada olacak
+        playerCamera.transform.rotation = Quaternion.LookRotation(transform.forward, Vector3.up);
+
+        // Temel bakış yönünü kaydet (oyuncunun kameraya göre sıfır noktası)
+        baseCamRotation = playerCamera.transform.localRotation;
         currentYRotation = 0f;
         targetYRotation = 0f;
 
@@ -93,15 +99,16 @@ public class Bed : MonoBehaviour, IInteractable
     {
         float mouseX = Input.GetAxis("Mouse X");
 
-        // Mouse hareketine göre hedef dönüşü ayarla
         targetYRotation += mouseX * lookSpeed * Time.deltaTime;
         targetYRotation = Mathf.Clamp(targetYRotation, -maxLookAngle, maxLookAngle);
 
-        // Kamerayı yumuşak bir şekilde döndür
         currentYRotation = Mathf.Lerp(currentYRotation, targetYRotation, Time.deltaTime * 10f);
-        playerCamera.transform.localRotation = Quaternion.Euler(0f, currentYRotation, 0f);
+
+        // 🔹 Kamera, yatağın ön tarafını referans alarak döner
+        playerCamera.transform.localRotation = baseCamRotation * Quaternion.Euler(0f, currentYRotation, 0f);
     }
 }
+
 
 
 

@@ -19,6 +19,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Egemen/InventorySystems/ItemInteractor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Egemen/InventorySystems/ItemPickup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Egemen/InventorySystems/PlayerInventory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@1e1527b3a17b/Shaders/Lit.shader" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -111,6 +112,7 @@
       <workItem from="1761121372380" duration="1822000" />
       <workItem from="1761232299309" duration="2338000" />
       <workItem from="1761259198766" duration="4268000" />
+      <workItem from="1761406375457" duration="1809000" />
     </task>
     <servers />
   </component>

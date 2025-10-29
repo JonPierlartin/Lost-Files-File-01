@@ -54,6 +54,7 @@ public class DialogueTrigger : MonoBehaviour
         dialogueUI.SetActive(false);
         if (player != null) player.enabled = true;
         isDialogueActive = false;
+        UIelements.SetActive(false);
     }
 }
 

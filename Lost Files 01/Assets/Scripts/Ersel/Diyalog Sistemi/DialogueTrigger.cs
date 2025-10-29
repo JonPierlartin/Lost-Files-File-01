@@ -16,7 +16,7 @@ public class DialogueTrigger : MonoBehaviour
 
     void Start()
     {
-        dialogueUI.SetActive(false);
+        UIelements.SetActive(false);
     }
 
     void OnTriggerEnter(Collider other)
@@ -32,7 +32,7 @@ public class DialogueTrigger : MonoBehaviour
     {
         if (isDialogueActive) yield break;
         isDialogueActive = true;
-        dialogueUI.SetActive(true);
+        UIelements.SetActive(true);
 
         // Oyuncunun hareketini durdur
         if (player != null) player.enabled = false;

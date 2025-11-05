@@ -370,11 +370,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_LocalScale.z
-      value: 556.7502
+      value: 548.68286
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 7.53
+      value: 7.49
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_LocalPosition.y
@@ -415,15 +415,19 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: a5b5c739e263ef94a8161d3d1133cbc2, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
       objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
+      propertyPath: 'm_Materials.Array.data[2]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
+    - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (61)
@@ -529,19 +533,19 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (63)
@@ -1724,15 +1728,15 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (94)
@@ -2339,15 +2343,15 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (58)
@@ -2425,19 +2429,19 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (96)
@@ -4626,19 +4630,19 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (83)
@@ -5670,6 +5674,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2100000, guid: a712dace49bf06f4081b1ae4284b46ed, type: 2}
     - target: {fileID: -7511558181221131132, guid: bc8c132492ef2804883d9d4d29ad4ea1, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
+    - target: {fileID: -7511558181221131132, guid: bc8c132492ef2804883d9d4d29ad4ea1, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
       objectReference: {fileID: 2100000, guid: 761eac8d704b10449a256eed1fe509c0, type: 2}
@@ -5893,7 +5901,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
@@ -5901,11 +5909,11 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (57)
@@ -7647,7 +7655,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: b654bcbe93f38af4c98c97b1be0eb315, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: bb7cc40d4b8c726438ba066a9b1f9f4b, type: 2}
+      objectReference: {fileID: 2100000, guid: d5dfbe574dc76b14db14d8d3c7a52761, type: 2}
     - target: {fileID: -7511558181221131132, guid: b654bcbe93f38af4c98c97b1be0eb315, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
@@ -9395,15 +9403,15 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (92)
@@ -9690,15 +9698,15 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (88)
@@ -10592,15 +10600,15 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (90)
@@ -11187,7 +11195,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 6b2907baca162104eb7a8fb6e9684d8e, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: a712dace49bf06f4081b1ae4284b46ed, type: 2}
+      objectReference: {fileID: 2100000, guid: d5dfbe574dc76b14db14d8d3c7a52761, type: 2}
     - target: {fileID: -7511558181221131132, guid: 6b2907baca162104eb7a8fb6e9684d8e, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
@@ -11391,19 +11399,19 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (52)
@@ -12616,19 +12624,19 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (50)
@@ -14047,7 +14055,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
@@ -14055,11 +14063,11 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (66)
@@ -15135,7 +15143,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: 988d02d7798d96442be8b7e280a6d62a, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (70)
@@ -15973,11 +15981,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 6.68
+      value: 6.665
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -23.141
+      value: -23.116
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_LocalRotation.w
@@ -16010,19 +16018,19 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (54)
@@ -16312,15 +16320,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7241de177bf98b449b0527dec080fc37, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 16.396
+      value: 16.396803
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7241de177bf98b449b0527dec080fc37, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.949
+      value: 4.9613686
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7241de177bf98b449b0527dec080fc37, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -14.088
+      value: -14.084444
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7241de177bf98b449b0527dec080fc37, type: 3}
       propertyPath: m_LocalRotation.w
@@ -17075,7 +17083,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: fca1dd96884a3c549b8ce3808e028764, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: fca1dd96884a3c549b8ce3808e028764, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilarMk2 (6)
@@ -17647,7 +17655,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
@@ -17655,7 +17663,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (60)
@@ -17884,19 +17892,19 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (86)
@@ -18115,133 +18123,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
---- !u!1 &1014261780
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1014261781}
-  - component: {fileID: 1014261783}
-  - component: {fileID: 1014261782}
-  m_Layer: 0
-  m_Name: Point Light (7)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1014261781
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1014261780}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -6.818, y: -0.6, z: -2.172}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 2055623187}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1014261782
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1014261780}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.UniversalAdditionalLightData
-  m_UsePipelineSettings: 1
-  m_AdditionalLightsShadowResolutionTier: 2
-  m_CustomShadowLayers: 0
-  m_LightCookieSize: {x: 1, y: 1}
-  m_LightCookieOffset: {x: 0, y: 0}
-  m_SoftShadowQuality: 0
-  m_RenderingLayersMask:
-    serializedVersion: 0
-    m_Bits: 1
-  m_ShadowRenderingLayersMask:
-    serializedVersion: 0
-    m_Bits: 1
-  m_Version: 4
-  m_LightLayerMask: 1
-  m_ShadowLayerMask: 1
-  m_RenderingLayers: 1
-  m_ShadowRenderingLayers: 1
---- !u!108 &1014261783
-Light:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1014261780}
-  m_Enabled: 1
-  serializedVersion: 11
-  m_Type: 2
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 3
-  m_Range: 10
-  m_SpotAngle: 30
-  m_InnerSpotAngle: 21.80208
-  m_CookieSize: 10
-  m_Shadows:
-    m_Type: 0
-    m_Resolution: -1
-    m_CustomResolution: -1
-    m_Strength: 1
-    m_Bias: 0.05
-    m_NormalBias: 0.4
-    m_NearPlane: 0.2
-    m_CullingMatrixOverride:
-      e00: 1
-      e01: 0
-      e02: 0
-      e03: 0
-      e10: 0
-      e11: 1
-      e12: 0
-      e13: 0
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
-      e32: 0
-      e33: 1
-    m_UseCullingMatrixOverride: 0
-  m_Cookie: {fileID: 0}
-  m_DrawHalo: 0
-  m_Flare: {fileID: 0}
-  m_RenderMode: 0
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_RenderingLayerMask: 1
-  m_Lightmapping: 4
-  m_LightShadowCasterMode: 0
-  m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 1
-  m_ColorTemperature: 6570
-  m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
-  m_UseBoundingSphereOverride: 0
-  m_UseViewFrustumForShadowCasterCull: 1
-  m_ForceVisible: 0
-  m_ShadowRadius: 0
-  m_ShadowAngle: 0
-  m_LightUnit: 1
-  m_LuxAtDistance: 1
-  m_EnableSpotReflector: 1
 --- !u!1 &1014968148
 GameObject:
   m_ObjectHideFlags: 0
@@ -18623,19 +18504,19 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (62)
@@ -21168,6 +21049,7 @@ Transform:
   - {fileID: 445993587}
   - {fileID: 1095638628}
   - {fileID: 835493953}
+  - {fileID: 1828104776}
   - {fileID: 427206013}
   - {fileID: 1716727305}
   - {fileID: 1906351446}
@@ -21632,7 +21514,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7241de177bf98b449b0527dec080fc37, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 16.393198
+      value: 16.396803
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7241de177bf98b449b0527dec080fc37, type: 3}
       propertyPath: m_LocalPosition.y
@@ -22740,19 +22622,19 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (95)
@@ -22818,6 +22700,10 @@ PrefabInstance:
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: a712dace49bf06f4081b1ae4284b46ed, type: 2}
+    - target: {fileID: -7511558181221131132, guid: bc8c132492ef2804883d9d4d29ad4ea1, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: bc8c132492ef2804883d9d4d29ad4ea1, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
@@ -22903,15 +22789,15 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (65)
@@ -23488,19 +23374,19 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (49)
@@ -26381,19 +26267,19 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (74)
@@ -27620,15 +27506,15 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (87)
@@ -27712,6 +27598,91 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: bc8c132492ef2804883d9d4d29ad4ea1, type: 3}
   m_PrefabInstance: {fileID: 1575226415}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1577620219
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 240.74051
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 106.48328
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 546.6147
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.47
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.44
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -12.57
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
+    - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
+    - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
+      propertyPath: 'm_Materials.Array.data[2]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
+    - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
+      propertyPath: 'm_Materials.Array.data[3]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
+    - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
+      propertyPath: m_Name
+      value: WoodenPlankPilar (75)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
 --- !u!1001 &1580698992
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -28095,7 +28066,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: b654bcbe93f38af4c98c97b1be0eb315, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 432c34d8c0a38074c8bbb14a0da0daf5, type: 2}
+      objectReference: {fileID: 2100000, guid: d5dfbe574dc76b14db14d8d3c7a52761, type: 2}
     - target: {fileID: -7511558181221131132, guid: b654bcbe93f38af4c98c97b1be0eb315, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
@@ -28910,19 +28881,19 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (51)
@@ -29196,19 +29167,19 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (56)
@@ -29343,11 +29314,11 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (84)
@@ -29420,19 +29391,19 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (59)
@@ -30757,19 +30728,19 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (55)
@@ -32328,6 +32299,88 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: bc8c132492ef2804883d9d4d29ad4ea1, type: 3}
   m_PrefabInstance: {fileID: 1827779106}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1828104775
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1190237422}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: b654bcbe93f38af4c98c97b1be0eb315, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 5.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b654bcbe93f38af4c98c97b1be0eb315, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 45.33257
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b654bcbe93f38af4c98c97b1be0eb315, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 102.73
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b654bcbe93f38af4c98c97b1be0eb315, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.57397
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b654bcbe93f38af4c98c97b1be0eb315, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.29634345
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b654bcbe93f38af4c98c97b1be0eb315, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -17.806889
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b654bcbe93f38af4c98c97b1be0eb315, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b654bcbe93f38af4c98c97b1be0eb315, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b654bcbe93f38af4c98c97b1be0eb315, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b654bcbe93f38af4c98c97b1be0eb315, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b654bcbe93f38af4c98c97b1be0eb315, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b654bcbe93f38af4c98c97b1be0eb315, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b654bcbe93f38af4c98c97b1be0eb315, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b654bcbe93f38af4c98c97b1be0eb315, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a712dace49bf06f4081b1ae4284b46ed, type: 2}
+    - target: {fileID: -7511558181221131132, guid: b654bcbe93f38af4c98c97b1be0eb315, type: 3}
+      propertyPath: 'm_Materials.Array.data[2]'
+      value: 
+      objectReference: {fileID: 2100000, guid: bd7ac790d5644ca44905c5eff38e84f2, type: 2}
+    - target: {fileID: 919132149155446097, guid: b654bcbe93f38af4c98c97b1be0eb315, type: 3}
+      propertyPath: m_Name
+      value: WoodenPlankTemel (111)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b654bcbe93f38af4c98c97b1be0eb315, type: 3}
+--- !u!4 &1828104776 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: b654bcbe93f38af4c98c97b1be0eb315, type: 3}
+  m_PrefabInstance: {fileID: 1828104775}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1829998056
 PrefabInstance:
@@ -34502,15 +34555,15 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
@@ -35395,7 +35448,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
@@ -35403,7 +35456,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (80)
@@ -36257,19 +36310,19 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (53)
@@ -36591,7 +36644,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
@@ -36599,7 +36652,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (81)
@@ -36759,11 +36812,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_LocalScale.z
-      value: 276.18283
+      value: 271.90753
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.536
+      value: -1.504
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_LocalPosition.y
@@ -36771,7 +36824,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -16.94
+      value: -16.992
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_LocalRotation.w
@@ -36808,15 +36861,15 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: -7511558181221131132, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: a45b4a1472c2dc64ab800eb73de09177, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilar (64)
@@ -37060,7 +37113,6 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1581221689}
-  - {fileID: 1014261781}
   - {fileID: 1243466291}
   - {fileID: 1827094058}
   - {fileID: 810276180}
@@ -38382,7 +38434,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: fca1dd96884a3c549b8ce3808e028764, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: e3fbb97b34fa02549867c14f65a4e328, type: 2}
+      objectReference: {fileID: 2100000, guid: 0dd21a4f05f2c8c4fa8d0a0ae92324e1, type: 2}
     - target: {fileID: 919132149155446097, guid: fca1dd96884a3c549b8ce3808e028764, type: 3}
       propertyPath: m_Name
       value: WoodenPlankPilarMk2 (7)
@@ -38727,6 +38779,7 @@ SceneRoots:
   - {fileID: 1668767180}
   - {fileID: 2047068729}
   - {fileID: 1498865913}
+  - {fileID: 1577620219}
   - {fileID: 998079616}
   - {fileID: 13184271}
   - {fileID: 1326694302}
